@@ -52,7 +52,6 @@ Here are two of the best-looking sections of the website:
   <img src="screenshots/bento-grid.png" alt="Zentry Bento Grid Section" width="100%" />
 </div>
 
-> *Tip: Place your full-resolution screenshots inside the `screenshots/` folder as `hero.png` and `bento-grid.png`.*
 
 ---
 
